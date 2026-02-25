@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 200vw;
+    height: 200vh;
+    background-color: rgb(215, 237, 237);
+}
+
+.pai {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(110, 81, 81);
+    border-radius: 30px;
+}
+
+.filho {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(58, 6, 6);
+    border-radius: 30px;
+    position: relative;
+    top: 20px;
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Família de fontes */
+    font-size: 50px; /* Tamanho da fonte */
+    font-weight: 700; /* Peso da fonte */
+    font-style: italic; /* Estilo da fonte */
+    text-transform: uppercase; /* Consigo transformar o texto. Tudo maiúsculo, minúsculo etc... */
+    text-shadow: 3px 3px 10px black; /* Sombra no texto */
+
+}
+
+p {
+    color: blue;
+    text-align: justify; /* Alinhamento do texto */
+    text-indent: 30px; /* Espaço no começo de cada parágrafo */
+    line-height: 26px; /* Espaço entre linhas */
+    letter-spacing: 3px; /* Espaço entre letras */
+    word-spacing: 10px; /* Espaço entre palavras */
+    text-decoration: solid; /* Decoração do texto. (underline, overline e none. */
+}

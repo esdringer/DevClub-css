@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-height: 100vh;
+}
+
+li:nth-last-child(4) {
+    color: blue;
+}

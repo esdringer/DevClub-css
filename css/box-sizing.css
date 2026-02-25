@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(252, 153, 169);
+    color: white;
+    padding: 20px;
+    border: 5px solid black;
+}

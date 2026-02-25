@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.um {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    padding: 100px;
+    
+}
+
+.dois {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(107, 22, 84);
+    color: white;
+    margin: 50px;
+}
